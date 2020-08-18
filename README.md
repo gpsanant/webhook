@@ -1,41 +1,7 @@
-<p align="center"><img src="https://i.imgur.com/0vkxIMN.png"></p>
+A Mass Discord Webhook Sender
 
-## Usage
+Use login:
+  Email: me@me.com 
+  Password: 123qwe
 
-### Create an App
-
-```zsh
-# with `nextron`
-$ nextron init my-app --example with-javascript-material-ui
-
-# with npx
-$ npx create-nextron-app my-app --example with-javascript-material-ui
-
-# with yarn
-$ yarn create nextron-app my-app --example with-javascript-material-ui
-
-# with pnpx
-$ pnpx create-nextron-app my-app --example with-javascript-material-ui
-```
-
-### Install Dependencies
-
-```zsh
-$ cd my-app
-
-# using yarn or npm
-$ yarn (or `npm install`)
-
-# using pnpm
-$ pnpm install --shamefully-hoist
-```
-
-### Use it
-
-```zsh
-# development mode
-$ yarn dev (or `npm run dev` or `pnpm run dev`)
-
-# production build
-$ yarn build (or `npm run build` or `pnpm run build`)
-```
+Email me at gpsanant@gmail.com or @ganant#1234 on Discord if you have questions :)
