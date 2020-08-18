@@ -1,0 +1,12 @@
+appId: com.example.webhook
+productName: Webhook
+copyright: Copyright © 2020 Gautham Anant
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
